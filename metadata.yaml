@@ -1,0 +1,36 @@
+_repo: Ikuiseen-rauhaan-Valtio-oikeudellinen-tutkielma_53461
+_version: 0.0.1
+alternative_title: Zum ewigen Frieden. Finnish
+contributor:
+  translator:
+    agent_name: Tuomikoski, Jaakko
+    birthdate: 1885
+    deathdate: 1971
+    gutenberg_agent_id: '47386'
+    url: http://www.gutenberg.org/2009/agents/47386
+creator:
+  author:
+    agent_name: Kant, Immanuel
+    aliases:
+    - Kant, I. (Immanuil)
+    - Kant, Emmanuel
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '1426'
+    url: http://www.gutenberg.org/2009/agents/1426
+    wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
+description: ''
+gutenberg_issued: '2016-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53461'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peace'
+- !lcc 'JX'
+- GITenberg
+title: 'Ikuiseen rauhaan: Valtio-oikeudellinen tutkielma'
+url: http://www.gutenberg.org/ebooks/53461
